@@ -1,4 +1,4 @@
-# Moin, folks! <img src="https://raw.githubusercontent.com/JBxCRANOX/JBxCRANOX/master/wave.gif" width="30px">
+# Moin, folks!
 
 My name is Jens and I'm a system  developer/DevOps engineer. I'm from Germany and working currently i Public Sector.
 
