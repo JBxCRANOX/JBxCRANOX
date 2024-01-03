@@ -1,6 +1,6 @@
 # Moin, folks!
 
-My name is Jens and I'm a system  developer/DevOps engineer. I'm from Germany and working currently i Public Sector.
+My name is Jens and I'm a system  developer/DevOps engineer. I'm from Germany and working currently in Public Health Sector.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
